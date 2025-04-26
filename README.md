@@ -1,5 +1,5 @@
 # Austo-motor-customer-analysis
-"Data analysis project for Austo Motor Company - Customer Purchase Analysis and Business Recommendations"
+"Data analysis project for Austo Motor Company.
 ## Project Overview
 This project analyzes customer data for Austo Motor Company to understand purchase patterns, customer demographics, and provide business recommendations to improve marketing strategies.
 

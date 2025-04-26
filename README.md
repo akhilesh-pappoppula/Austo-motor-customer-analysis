@@ -19,6 +19,6 @@ This project analyzes customer data for Austo Motor Company to understand purcha
 - Home loan status affects purchasing power more than personal loans
 - Salaried individuals highly prefer sedans
 
-## 🛠Tools Used
+## Tools Used
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook

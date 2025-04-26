@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes customer data for Austo Motor Company to understand purchase patterns, customer demographics, and provide business recommendations to improve marketing strategies.
 
-## 🛠Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning (Handling Missing Values & Typos)
 - Exploratory Data Analysis (Univariate and Bivariate Analysis)
 - Data Visualization (Histograms, Boxplots, Heatmaps)
